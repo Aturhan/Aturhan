@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">I am a software developer who constantly develops myself and projects on back-end development. I am fluent in English at work proficiency. I am proficient in Java, Spring , Node.js, MySQL, MongoDB and Docker technologies. I graduated from Ankara Yıldırım Beyazıt University, Management Information Systems department in 2023.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aturhan" alt="aturhan" /></a> </p>
+
 
 - 📫 How to reach me **abdullahturhan0@hotmail.com**
 

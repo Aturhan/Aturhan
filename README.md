@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">I am a software developer who constantly develops myself and projects on back-end development. I am fluent in English at work proficiency. I am proficient in Java, Spring , Node.js, MySQL, MongoDB and Docker technologies. I graduated from Ankara Yıldırım Beyazıt University, Management Information Systems department in 2023.</h3>
+<h3 align="center">I'm Backend Developer with a foundation in Java, Spring Boot, SQL databases, and Kafka. Eager to apply my knowledge and learn from experienced mentors to become a proficient developer. Ready to contribute and grow within a dynamic team.</h3>
 
 
 

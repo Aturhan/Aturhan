@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">I'm Backend Developer with a foundation in Java, Spring Boot, SQL databases, and Kafka. Eager to apply my knowledge and learn from experienced mentors to become a proficient developer. Ready to contribute and grow within a dynamic team.</h3>
+<h3 align="center">A Java developer. I usually spend time with backend development using Spring Framework. I am fluent in Postgresql and Mysql databases. I am also fluent in Git, Kafka and Docker tools.. Eager to apply my knowledge and learn from experienced mentors to become a proficient developer. Ready to contribute and grow within a dynamic team..</h3>
 
 
 
-- 📫 How to reach me **abdullahturhan0@hotmail.com**
+- 📫 How to reach me **abdullahturhan003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

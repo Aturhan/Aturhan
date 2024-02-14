@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A Java developer. I usually spend time with backend development using Spring Framework. I am fluent in Postgresql and Mysql databases. I am also fluent in Git, Kafka and Docker tools.. Eager to apply my knowledge and learn from experienced mentors to become a proficient developer. Ready to contribute and grow within a dynamic team..</h3>
+<h3 align="center">This is Abdullah. I am a freshly graduated Software Developer with a bachelor's degree in Management Information Systems. I have used the Java Programming Language in different fields and projects since my first years of university, and recently I have started to develop projects with TypeScript. I am open to learning new technologies and like solving problems.</h3>
 
 
 

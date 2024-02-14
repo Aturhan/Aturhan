@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">This is Abdullah. I am a freshly graduated Software Developer with a bachelor's degree in Management Information Systems. I have used the Java Programming Language in different fields and projects since my first years of university, and recently I have started to develop projects with TypeScript. I am open to learning new technologies and like solving problems.</h3>
+<h3 align="center"> I am a freshly graduated Software Developer with a bachelor's degree in Management Information Systems. I have used the Java Programming Language in different fields and projects since my first years of university, and recently I have started to develop projects with TypeScript. I am open to learning new technologies and like solving problems.</h3>
 
 
 
